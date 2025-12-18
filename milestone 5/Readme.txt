@@ -1,0 +1,1 @@
+Simscape multibody and matlab code run together in x5_DOF_Robot_Assembly_DataFile2.m file
